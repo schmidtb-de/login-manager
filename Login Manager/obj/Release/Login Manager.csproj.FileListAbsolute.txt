@@ -1,0 +1,21 @@
+C:\Users\Steinar88\documents\visual studio 2012\Projects\Login Manager\Login Manager\bin\Release\Login Manager.exe.config
+C:\Users\Steinar88\documents\visual studio 2012\Projects\Login Manager\Login Manager\bin\Release\Login Manager.exe
+C:\Users\Steinar88\documents\visual studio 2012\Projects\Login Manager\Login Manager\bin\Release\Login Manager.pdb
+C:\Users\Steinar88\documents\visual studio 2012\Projects\Login Manager\Login Manager\obj\Release\Login_Manager.Form1.resources
+C:\Users\Steinar88\documents\visual studio 2012\Projects\Login Manager\Login Manager\obj\Release\Login_Manager.Properties.Resources.resources
+C:\Users\Steinar88\documents\visual studio 2012\Projects\Login Manager\Login Manager\obj\Release\Login Manager.csproj.GenerateResource.Cache
+C:\Users\Steinar88\documents\visual studio 2012\Projects\Login Manager\Login Manager\obj\Release\Login Manager.exe
+C:\Users\Steinar88\documents\visual studio 2012\Projects\Login Manager\Login Manager\obj\Release\Login Manager.pdb
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\Login Manager\Login Manager\bin\Release\Login Manager.exe.config
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\Login Manager\Login Manager\obj\Release\Login Manager.exe
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\Login Manager\Login Manager\obj\Release\Login Manager.pdb
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\Login Manager\Login Manager\bin\Release\Login Manager.exe
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\Login Manager\Login Manager\bin\Release\Login Manager.pdb
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\Login Manager\Login Manager\obj\Release\Login Manager.csprojResolveAssemblyReference.cache
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\Login Manager\Login Manager\obj\Release\Login_Manager.Form1.resources
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\Login Manager\Login Manager\obj\Release\Login_Manager.Properties.Resources.resources
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\Login Manager\Login Manager\obj\Release\Login Manager.csproj.GenerateResource.Cache
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\Login Manager\Login Manager\bin\Release\Login Manager.exe.manifest
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\Login Manager\Login Manager\bin\Release\Login Manager.application
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\Login Manager\Login Manager\obj\Release\Login Manager.exe.manifest
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\Login Manager\Login Manager\obj\Release\Login Manager.application

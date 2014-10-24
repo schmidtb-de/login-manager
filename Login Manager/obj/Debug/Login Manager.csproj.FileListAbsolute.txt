@@ -1,0 +1,18 @@
+c:\users\steinar88\documents\visual studio 2012\Projects\Login Manager\Login Manager\bin\Debug\Login Manager.exe.config
+C:\Users\Steinar88\Documents\Visual Studio 2012\Projects\Login Manager\Login Manager\obj\Debug\Login_Manager.Form1.resources
+C:\Users\Steinar88\Documents\Visual Studio 2012\Projects\Login Manager\Login Manager\obj\Debug\Login_Manager.Properties.Resources.resources
+C:\Users\Steinar88\Documents\Visual Studio 2012\Projects\Login Manager\Login Manager\obj\Debug\Login Manager.csproj.GenerateResource.Cache
+C:\Users\Steinar88\Documents\Visual Studio 2012\Projects\Login Manager\Login Manager\bin\Debug\Login Manager.exe
+C:\Users\Steinar88\Documents\Visual Studio 2012\Projects\Login Manager\Login Manager\bin\Debug\Login Manager.pdb
+C:\Users\Steinar88\Documents\Visual Studio 2012\Projects\Login Manager\Login Manager\obj\Debug\Login Manager.exe
+C:\Users\Steinar88\Documents\Visual Studio 2012\Projects\Login Manager\Login Manager\obj\Debug\Login Manager.pdb
+C:\Users\Steinar88\documents\visual studio 2012\Projects\Login Manager\Login Manager\obj\Debug\Login Manager.csprojResolveAssemblyReference.cache
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\Login Manager\Login Manager\bin\Debug\Login Manager.exe.config
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\Login Manager\Login Manager\obj\Debug\Login Manager.exe
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\Login Manager\Login Manager\obj\Debug\Login Manager.pdb
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\Login Manager\Login Manager\obj\Debug\Login Manager.csprojResolveAssemblyReference.cache
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\Login Manager\Login Manager\obj\Debug\Login_Manager.Form1.resources
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\Login Manager\Login Manager\obj\Debug\Login_Manager.Properties.Resources.resources
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\Login Manager\Login Manager\obj\Debug\Login Manager.csproj.GenerateResource.Cache
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\Login Manager\Login Manager\bin\Debug\Login Manager.exe
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\Login Manager\Login Manager\bin\Debug\Login Manager.pdb
